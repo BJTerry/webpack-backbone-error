@@ -1,0 +1,16 @@
+{
+  "name": "webpack-backbone-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.4.1",
+    "react": "^0.13.2",
+    "react-widgets": "^2.6.0"
+  }
+}
